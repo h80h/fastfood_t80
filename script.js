@@ -15,3 +15,5 @@ mute_container.addEventListener('click', function() {
   this.innerHTML = isFirst ? svg2 : svg1;
   isFirst = !isFirst;
 });
+
+audio.volume = 0.2;
