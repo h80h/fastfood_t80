@@ -140,11 +140,6 @@ html, body {
   position: relative;
 }
 
-/* audio {
-  width: calc(var(--burger-width) * 0.7);
-  height: calc(var(--burger-width) * 0.7 * 0.09);
-} */
-
 #mute_container {
   cursor: pointer;
   position: absolute;
