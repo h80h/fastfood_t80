@@ -48,4 +48,4 @@ function showElementAfterImagesLoad(elementSelector) {
 }
 
 // Usage
-showElementAfterImagesLoad('container');
+showElementAfterImagesLoad(container);
